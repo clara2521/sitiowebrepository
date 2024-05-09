@@ -9,7 +9,8 @@ formulario.addEventListener('submit', function(){
 
     console.log('el nombre es'+ nombre);
     console.log('el email es'+ email);
-
+    console.log('hola alumno');
+    
   
 })
 
