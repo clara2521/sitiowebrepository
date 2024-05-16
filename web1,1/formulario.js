@@ -7,8 +7,13 @@ formulario.addEventListener('submit', function(){
     
 //constGenero = document.getElementById('genero').value
 
-    console.log('el nombre es'+ nombre);
+    console.log('los nombres son'+ nombre);
     console.log('el email es'+ email);
+    console.log('hola alumno');
+    console.log('hola vida');
+    
+
+
 
   
 })
